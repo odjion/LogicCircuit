@@ -1,7 +1,6 @@
 # Hello world :)
 
-### Projeto de Fundamentos da Computação: Circuito Lógico
-# Nesse projeto busco 
+# Projeto de Fundamentos da Computação: Circuito Lógico
 
 
 `var a = 1`
