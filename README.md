@@ -8,7 +8,9 @@
          utilizando as portas lógicas e  os operadores lógicos (NOT, AND e OR)
         Para termos a expressão comtemplada, temos que executar o circuito lógico utilizando
         a precedência de operadores, esta nos diz que, 
-        
+
+![Imagem do circuito](https://img/LOGICircuity.jpg)
+
 `var a = 1`
 
 ```js
