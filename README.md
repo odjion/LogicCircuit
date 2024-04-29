@@ -9,7 +9,7 @@
         Para termos a expressão comtemplada, temos que executar o circuito lógico utilizando
         a precedência de operadores, esta nos diz que, 
 
-![Imagem do circuito](https://img/LogicCircuity.jpg)
+![Imagem do circuito](img/LogicCircuity.jpg)
 
 `var a = 1`
 
