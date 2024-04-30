@@ -4,19 +4,22 @@
 
 ### 
 
- Nesse projeto, criei um circuito eletrônico para reprsentar os operados lógicos (NÃO, E e OU+)
-         utilizando as portas lógicas e  os operadores lógicos (NOT, AND e OR)
-        Para termos a expressão comtemplada, temos que executar o circuito lógico utilizando
-        a precedência de operadores, esta nos diz que, 
+Nesse projeto, criei um circuito eletrônico para reprsentar os operados lógicos (NÃO, E e OU+)
+utilizando as portas lógicas e os operadores lógicos (NOT, AND e OR)
+Para termos a expressão operando plenamente, teremos que executar o circuito lógico utilizando:
 
-![Imagem do circuito](img/LogicCircuity.jpg)
-
-`var a = 1`
+a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
+ Logo, quando temos a expressão 
+ 
+ `var Y = Â.(B+C)`
 
 ```js
-if a > 2 
-    return "maior"
+if Y = Â.(B+C)
+    return "0"
 ```
+
+
+![Imagem do circuito](img/LogicCircuity.jpg)
 
 
 
