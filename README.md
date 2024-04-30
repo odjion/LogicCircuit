@@ -53,6 +53,7 @@ if Y = Â.(B+C)
   </div></div>
 </li>
 <li>
+
 <p dir="auto"><strong>Usar a tag HTML <code class="notranslate">&lt;img&gt;</code>:</strong></p>
 <p dir="auto">Você também pode usar a tag HTML <code class="notranslate">&lt;img&gt;</code> para inserir uma imagem diretamente no README. Isso é útil quando você precisa de mais controle sobre o tamanho ou outros atributos da imagem. O exemplo a seguir demonstra como fazer isso:</p>
 <div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>="<span class="pl-s">URL_da_Imagem</span>" <span class="pl-c1">alt</span>="<span class="pl-s">Texto Alternativo</span>"<span class="pl-kos">&gt;</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
