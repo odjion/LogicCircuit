@@ -1,0 +1,24 @@
+html {
+    font-family: 'Verdana,sans-serif';
+   background-color: darkgrey;
+}
+body {
+    box-sizing: border-box;
+    display: block;
+    margin: 8px;
+ background-color: darkgray;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+p{
+    color: rgba(0, 0, 0, 0.863);
+    font-family: 'Verdana,sans-serif';
+}
+
+img{
+    size: 3px;
+    align-items: center;
+}
