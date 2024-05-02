@@ -4,10 +4,6 @@
 
 ### 
 
-
-a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
- Logo, quando temos a expressão 
- 
  `var Y = Â.(B+C)`
 
 ```js
