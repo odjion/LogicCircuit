@@ -4,9 +4,6 @@
 
 ### 
 
-Nesse projeto, criei um circuito eletrônico para reprsentar os operados lógicos (NÃO, E e OU+)
-utilizando as portas lógicas e os operadores lógicos (NOT, AND e OR)
-Para termos a expressão operando plenamente, teremos que executar o circuito lógico utilizando:
 
 a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
  Logo, quando temos a expressão 
@@ -24,7 +21,9 @@ if Y = Â.(B+C)
 
 <ol dir="auto">
 <li>
-<p dir="auto"><strong>Incorporar a imagem diretamente no README:</strong></p>
+<p dir="auto"><strong>Nesse projeto, criei um circuito eletrônico para reprsentar os operados lógicos (NÃO, E e OU+)
+utilizando as portas lógicas e os operadores lógicos (NOT, AND e OR)
+Para termos a expressão operando plenamente, teremos que executar o circuito lógico utilizando:</strong></p>
 <p dir="auto">Você pode incorporar uma imagem diretamente no README usando a seguinte sintaxe de Markdown:</p>
 <div class="highlight highlight-text-md notranslate position-relative overflow-auto" dir="auto"><pre class="notranslate"><span class="pl-s">![</span>Texto Alternativo<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">URL_da_Imagem</span><span class="pl-s">)</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="![Texto Alternativo](URL_da_Imagem)" tabindex="0" role="button" style="display: inherit;">
