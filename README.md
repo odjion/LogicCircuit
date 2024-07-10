@@ -13,13 +13,16 @@
 <p dir="auto"><strong>Nesse projeto, criei um circuito eletrônico para reprsentar os operados lógicos (NÃO, E e OU+)
 utilizando as portas lógicas e os operadores lógicos (NOT, AND e OR)
 Para termos a expressão operando plenamente, teremos que executar o circuito lógico utilizando:</strong></p>
+ 
 <p dir="auto">Você pode incorporar uma imagem diretamente no README usando a seguinte sintaxe de Markdown:</p>
-<div class="highlight highlight-text-md notranslate position-relative overflow-auto" dir="auto"><pre class="notranslate"><span class="pl-s">a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
+<div class="highlight highlight-text-md notranslate position-relative overflow-auto" dir="auto"><pre class="notranslate"><span class="pl-s">
+ a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
  Logo, quando temos a expressão <span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl"> 
   ` Y = Â.(B+C)`
 
 ```js
  Y = Â.(B+C)```
+
 </span><span class="pl-s">)</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="![Texto Alternativo](URL_da_Imagem)" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
