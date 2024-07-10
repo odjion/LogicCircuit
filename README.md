@@ -17,7 +17,7 @@ Para termos a expressão operando plenamente, teremos que executar o circuito l�
 <p dir="auto">Você pode incorporar uma imagem diretamente no README usando a seguinte sintaxe de Markdown:</p>
 <div class="highlight highlight-text-md notranslate position-relative overflow-auto" dir="auto"><pre class="notranslate"><span class="pl-s">
  a) a precedência de operadores, esta nos diz que, devemos resolver primeiro os parêntes.
- Logo, quando temos a expressão <span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl"> 
+ Logo, quando temos a expressão <span class="pl-s"> </span><span class="pl-s"> </span><span class="pl-corl"> 
   ` Y = Â.(B+C)`
 
 ```js
